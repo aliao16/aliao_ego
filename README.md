@@ -3,6 +3,6 @@
 
 
 ## 技术点
-    Vue + Vue-router  + Vuex + Element-ui + Axios  + Echarts + 其他三方库
+    Vue + Vue-router  + Vuex + Element-ui + Axios  + Echarts 等
 
 
